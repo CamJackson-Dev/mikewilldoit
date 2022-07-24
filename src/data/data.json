@@ -1,0 +1,136 @@
+{
+    "name": "Mike Fiat",
+    "image": "/mike.jpg",
+    "image2": "/me2.png",
+    "name2": "mikewilldoIT.com",
+    "profession": "FullStack Web Developer & all-round nice guy :)",
+    "intro": "I am focused on building products that will bring people's ideas to life. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+    "about": "I have been coding for a few years now and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing. There are many options for how and where to get your website built & maintained - so why choose me? You will have a direct relationship with the Developer and are able to recieve the service and the product to your exact requirements. Navigating the software industry can be a complicated minefield with no guidance, but don't stress because MikeWillDoIt and talk you through every step of the process :)",
+    "website": "mikewilldoit.com",
+    "skills": [
+        {
+            "src": "/logos/react.svg",
+            "name": "React",
+            "link": "https://reactjs.org/"
+        },
+        {
+            "src": "/logos/c++.svg",
+            "name": "C++",
+            "link": "https://www.w3schools.com/CPP/default.asp"
+        },
+        {
+            "src": "/logos/javascript.svg",
+            "name": "Javascript",
+            "link": "https://www.javascript.com/"
+        },
+        {
+            "src": "/logos/python.svg",
+            "name": "Python",
+            "link": "https://www.python.org/"
+        },
+        {
+            "src": "/logos/nextjs.svg",
+            "name": "NextJs",
+            "link": "https://nextjs.org//"
+        },
+        {
+            "src": "/logos/nodejs.svg",
+            "name": "Nodejs",
+            "link": "https://nodejs.org/"
+        },
+        {
+            "src": "/logos/css3.svg",
+            "name": "Css3",
+            "link": "https://www.w3schools.com/css/"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Australasia.com",
+            "image": "/projects/australasia.png",
+            "about": "Australasia comprises Australia, New Zealand, the island of New Guinea & neighboring islands in the Pacific Ocean. Australasia.com will display all Regions & Sub-regions of Australasia, outlining a variety of information to learn about. From enchanting History, Places to See, Things to do & everything in between.",
+            "tech": ["React.js", "CSS", "Node.js", "JavaScript", "Firebase"],
+            "links": {
+                "Live": "https://australasia.com/"
+            },
+            "role": "Senior Web developer"
+        },
+        {
+            "name": "Watchmen Global Ministry",
+            "image": "/projects/watchmen.png",
+            "about": "WCN is a global network of Christians across the globe,we believe in transforming lives through the spread of the gospel.WCN was established to be an arena to train,equip and raise People by building the spiritual ,emotional and physical needs of peoples lives. WCN'S core value is deeply rooted in scripture and it's the foundation upon which our ministry endeavors are built.",
+            "tech": ["CSS", "JavaScript", "HTML"],
+            "links": {
+                "GitHub": "https://github.com/lapiito/wcnetwork",
+                "Live": "https://watchmenglobal.org"
+            },
+            "role": "Lead developer"
+        },
+        {
+            "name": "StageZay Group LTD ",
+            "image": "/projects/stagezay.png",
+            "about": "Stage Zay Group comprises member firms in various industries, including general logistics, real estate development and management, shipping, ticketing and hotel Reservations.",
+            "tech": ["CSS", "JavaScript", "HTML"],
+            "links": {
+                "GitHub": "https://github.com/Kira272921/faucetli",
+                "Live": "https://www.stagezaygroup.com"
+            },
+            "role": "Lead developer"
+        }
+    ],
+    "services": [
+        {
+            "heading": "",
+            "value": "I have launched more than 2 products on Product Hunt with Fiatand I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
+            "name": "Kira",
+            "relation": "Co-worker",
+            "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
+            "link": "https://github.com/Kira272921/"
+        },
+        {
+            "heading": "",
+            "value": "I've worked on numerous projects with Fiatand the flow has always been perfect. Fiatis a great leader and we also listen to spotify together!",
+            "name": "Anurag",
+            "relation": "Co-builder",
+            "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
+            "link": "https://anurag.tech"
+        }
+    ],
+    "links": [
+        {
+            "name": "GitHub",
+            "icon": "github.svg",
+            "link": "https://github.com/lapiito"
+        },
+        {
+            "name": "Twitter",
+            "icon": "twitter.svg",
+            "link": "https://twitter.com/lapiito1"
+        },
+        {
+            "name": "Hashnode",
+            "icon": "hashnode.svg",
+            "link": "https://mikewilldoit.hashnode.dev/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "facebook.svg",
+            "link": "https://web.facebook.com/lapiitoblaze"
+        },
+        {
+            "name": "Instagram",
+            "icon": "instagram.svg",
+            "link": "https://instagram.com/lapiito12"
+        },
+        {
+            "name": "Mail me",
+            "icon": "mail.svg",
+            "link": "mailto:mikewilldoit16@gmail.com"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin.svg",
+            "link": "https://www.linkedin.com/in/michael-fiatuho-8b6286168/"
+        }
+    ]
+}
